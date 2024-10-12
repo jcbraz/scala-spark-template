@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/scala-spark-template_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/Analysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/Analysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/SparkExampleMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/SparkExampleMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/SparkExampleMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/SparkExampleMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/Analysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/Analysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/sparkTemplate/SparkExampleMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jcbraz/Projects/scala-spark-template/target/scala-2.12/classes/com/sparkTemplate/SparkExampleMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

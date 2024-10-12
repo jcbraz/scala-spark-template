@@ -1,0 +1,18 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jcbraz/Projects/scala-spark-template/src/main/scala/com/sparkTemplate/main/SparkExampleMain.scala:6:15: not found: value createSparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = createSparkSession("Spark test", isLocal = true)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jcbraz/Projects/scala-spark-template/src/main/scala/com/sparkTemplate/main/SparkExampleMain.scala:6:48: not found: value isLocal[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = createSparkSession("Spark test", isLocal = true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jcbraz/Projects/scala-spark-template/src/main/scala/com/sparkTemplate/main/SparkExampleMain.scala:8:33: not found: value parseArgs[0m
+[0m[[0m[31merror[0m] [0m[0m  val (inputPath, outputPath) = parseArgs(args = args)[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jcbraz/Projects/scala-spark-template/src/main/scala/com/sparkTemplate/main/SparkExampleMain.scala:8:43: value args_= is not a member of object com.sparkTemplate.SparkExampleMain[0m
+[0m[[0m[31merror[0m] [0m[0m  val (inputPath, outputPath) = parseArgs(args = args)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jcbraz/Projects/scala-spark-template/src/main/scala/com/sparkTemplate/main/SparkExampleMain.scala:21:10: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    .csv(outputPath)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
